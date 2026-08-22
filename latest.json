@@ -1,1 +1,1 @@
-{"platform":"android","latest_version":"2.4.0","latest_build":32,"minimum_supported_build":31,"apk_url":"","sha256":"","release_notes":["Bootstrap updater GitHub"]}
+{"platform":"android","latest_version":"2.4.0","latest_build":32,"minimum_supported_build":31,"apk_url":"https://github.com/andraastro/vico-wms-mobile-releases/releases/download/v2.4.0/vico-wms-2.4.0%2B32.apk","sha256":"8859431298f34e9487ecc9c9835932ba56c0c8b00b69dfe2dbd62779d31e92b2","release_notes":["Bootstrap release dengan in-app updater GitHub."]}
